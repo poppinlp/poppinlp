@@ -2,12 +2,12 @@
 
 I'm [PoppinL](https://poppinlp.com/), a developer who likes delicious food and games.
 
-- 🔭 I’m currently working at [Run The World](https://runtheworld.today/)
+- 🔭 I’m currently looking for opportunities
 - 🌱 I’m currently learning Algorithm & Data Structure
 - 💬 Ask me about anything [here](https://github.com/poppinlp/poppinlp/issues)
 - 📫 How to reach me: [email](poppinlp@gmail.com) or idiodynamics (hope I can receive it 😋)
 - 😄 Pronouns: popper, airhead, sunny
-- ⚡ Fun fact: not good at English 😂
+- ⚡ Fun fact: eating much but still thin 😂
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
