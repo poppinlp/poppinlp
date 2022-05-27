@@ -2,7 +2,7 @@
 
 I'm [PoppinL](https://poppinlp.com/), a developer who likes delicious food and games.
 
-- 🔭 I’m currently looking for opportunities
+- 🔭 We are hiring!!! Please contact me if you want to find a flexible and tech passion team
 - 🌱 I’m currently learning Algorithm & Data Structure
 - 💬 Ask me about anything [here](https://github.com/poppinlp/poppinlp/issues)
 - 📫 How to reach me: [email](poppinlp@gmail.com) or idiodynamics (hope I can receive it 😋)
